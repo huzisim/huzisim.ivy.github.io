@@ -1,6 +1,6 @@
 body {
     p {
-        color: rgb(246, 250, 246); /* pタグのテキスト色を緑に設定 */
+        color: rgb(246, 250, 246); /* pタグのテキスト色を白に設定 */
     }
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
